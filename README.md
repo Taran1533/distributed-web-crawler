@@ -80,7 +80,7 @@ cd distributed-web-crawler
 ## Install Dependencies
 
 ```bash
-pip install redis pandas matplotlib networkx scapy httpx beautifulsoup4 sqlalchemy scrapy bloom-filter2
+pip install -r requirements.txt
 ```
 
 ## Start Valkey (Arch Linux)
@@ -96,6 +96,7 @@ python main.py
 ```
 
 ---
+---
 
 # Outputs
 
@@ -109,33 +110,8 @@ headers.log
 processed_headers.log
 wget.log
 top_titles.txt
-```
-
-Optional:
-
-```text
 crawl_traffic.pcap
 ```
 
 ---
 
-# Folder Structure
-
-```text
-Web-Crawler/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── data/
-├── outputs/
-└── screenshots/
-```
-
----
-
-# License
-
-MIT License

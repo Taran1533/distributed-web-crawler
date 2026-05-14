@@ -20,13 +20,19 @@ import os
 import scrapy
 from scrapy.crawler import CrawlerProcess
 
+# Create folders automatically
+os.makedirs("data", exist_ok=True)
+os.makedirs("outputs", exist_ok=True)
+os.makedirs("screenshots", exist_ok=True)
+
 print("-" * 50)
 print("Distributed Web Crawler")
 print("-" * 50)
 
-Base=declarative_base()
+Base = declarative_base()
 
-engine=create_engine('sqlite:///crawled.db', echo=False)
+# Database inside data folder
+engine = create_engine('sqlite:///data/crawled.db', echo=False)
 
 Session = sessionmaker(bind=engine)
 
@@ -66,9 +72,10 @@ def scapy_capture():
                 timeout=20
             )
 
-        wrpcap("crawl_traffic.pcap", packets)
+        # Save pcap inside outputs folder
+        wrpcap("outputs/crawl_traffic.pcap", packets)
 
-        print("✅ [Scapy] crawl_traffic.pcap saved")
+        print("✅ [Scapy] outputs/crawl_traffic.pcap saved")
 
     except Exception as e:
 
@@ -287,7 +294,7 @@ class DistributedCrawler:
                 if existing:
                     session.close()
                     continue
- 
+
                 page = CrawledPage(
                     url=url,
                     title=title,
@@ -346,7 +353,7 @@ class DistributedCrawler:
 
         process = CrawlerProcess({
             'FEEDS': {
-                'scrapy_output.json': {
+                'outputs/scrapy_output.json': {
                     'format': 'json'
                 }
             },
@@ -370,12 +377,12 @@ class DistributedCrawler:
         )
 
         df.to_csv(
-            'crawled_data.csv',
+            'data/crawled_data.csv',
             index=False
         )
 
         df.to_json(
-            'crawled_data.json',
+            'data/crawled_data.json',
             orient='records',
             indent=2
         )
@@ -386,7 +393,7 @@ class DistributedCrawler:
 
         plt.title('Pages Crawled per Domain')
 
-        plt.savefig('domain_distribution.png')
+        plt.savefig('outputs/domain_distribution.png')
 
         plt.close()
 
@@ -397,27 +404,27 @@ class DistributedCrawler:
         subprocess.run(
             "curl -I -A 'Crawler' "
             "https://en.wikipedia.org/wiki/Main_Page "
-            "> headers.log 2>&1",
+            "> outputs/headers.log 2>&1",
             shell=True
         )
 
         subprocess.run(
             "wget --spider -r -l 1 "
             "https://www.python.org "
-            "2> wget.log",
+            "2> outputs/wget.log",
             shell=True
         )
 
         subprocess.run(
-            "awk '/HTTP/ {print $0}' headers.log "
+            "awk '/HTTP/ {print $0}' outputs/headers.log "
             "| sed 's/HTTP/Status:/' "
-            "> processed_headers.log",
+            "> outputs/processed_headers.log",
             shell=True
         )
 
         subprocess.run(
-            "jq '.[0:10] | .[].title' crawled_data.json "
-            "> top_titles.txt 2>/dev/null || echo 'jq done'",
+            "jq '.[0:10] | .[].title' data/crawled_data.json "
+            "> outputs/top_titles.txt 2>/dev/null || echo 'jq done'",
             shell=True
         )
 
