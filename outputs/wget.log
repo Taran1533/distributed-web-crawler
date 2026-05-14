@@ -1,0 +1,1466 @@
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving www.python.org (www.python.org)... 2a04:4e42:fe7::223, 2a04:4e42:fea::223, 167.82.56.223, ...
+Connecting to www.python.org (www.python.org)|2a04:4e42:fe7::223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53312 (52K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:24--  https://www.python.org/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 53312 (52K) [text/html]
+Saving to: ‘www.python.org/index.html.tmp.tmp’
+
+     0K .......... .......... .......... .......... .......... 96% 2.83M 0s
+    50K ..                                                    100%  186M=0.02s
+
+2026-05-14 09:31:24 (2.95 MB/s) - ‘www.python.org/index.html.tmp.tmp’ saved [53312/53312]
+
+Loading robots.txt; please ignore errors.
+--2026-05-14 09:31:24--  https://www.python.org/robots.txt
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 537 [text/plain]
+Saving to: ‘www.python.org/robots.txt’
+
+     0K                                                       100% 50.1M=0s
+
+2026-05-14 09:31:24 (50.1 MB/s) - ‘www.python.org/robots.txt’ saved [537/537]
+
+Removing www.python.org/robots.txt.
+Removing www.python.org/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/js/libs/modernizr.js
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11753 (11K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/js/libs/modernizr.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/stylesheets/style.c4f369bed0d3.css
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 349405 (341K) [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:24--  https://www.python.org/static/stylesheets/style.c4f369bed0d3.css
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 349405 (341K) [text/css]
+Saving to: ‘www.python.org/static/stylesheets/style.c4f369bed0d3.css.tmp.tmp’
+
+     0K .......... .......... .......... .......... .......... 14% 12.9M 0s
+    50K .......... .......... .......... .......... .......... 29% 7.08M 0s
+   100K .......... .......... .......... .......... .......... 43% 22.7M 0s
+   150K .......... .......... .......... .......... .......... 58% 22.2M 0s
+   200K .......... .......... .......... .......... .......... 73% 23.7M 0s
+   250K .......... .......... .......... .......... .......... 87% 10.5M 0s
+   300K .......... .......... .......... .......... .         100% 36.7M=0.02s
+
+2026-05-14 09:31:24 (14.6 MB/s) - ‘www.python.org/static/stylesheets/style.c4f369bed0d3.css.tmp.tmp’ saved [349405/349405]
+
+Removing www.python.org/static/stylesheets/style.c4f369bed0d3.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/stylesheets/mq.a4feecea96fa.css
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96086 (94K) [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:24--  https://www.python.org/static/stylesheets/mq.a4feecea96fa.css
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96086 (94K) [text/css]
+Saving to: ‘www.python.org/static/stylesheets/mq.a4feecea96fa.css.tmp.tmp’
+
+     0K .......... .......... .......... .......... .......... 53% 16.5M 0s
+    50K .......... .......... .......... .......... ...       100% 42.1M=0.004s
+
+2026-05-14 09:31:24 (23.0 MB/s) - ‘www.python.org/static/stylesheets/mq.a4feecea96fa.css.tmp.tmp’ saved [96086/96086]
+
+Removing www.python.org/static/stylesheets/mq.a4feecea96fa.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/stylesheets/font-awesome.bf0c425cdb73.css
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31078 (30K) [text/css]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:24--  https://www.python.org/static/stylesheets/font-awesome.bf0c425cdb73.css
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31078 (30K) [text/css]
+Saving to: ‘www.python.org/static/stylesheets/font-awesome.bf0c425cdb73.css.tmp.tmp’
+
+     0K .......... .......... ..........                      100% 64.3M=0s
+
+2026-05-14 09:31:24 (64.3 MB/s) - ‘www.python.org/static/stylesheets/font-awesome.bf0c425cdb73.css.tmp.tmp’ saved [31078/31078]
+
+Removing www.python.org/static/stylesheets/font-awesome.bf0c425cdb73.css.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/favicon.ico
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15086 (15K) [image/x-icon]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/favicon.ico.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/apple-touch-icon-144x144-precomposed.png
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7382 (7.2K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/apple-touch-icon-144x144-precomposed.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/apple-touch-icon-114x114-precomposed.png
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5531 (5.4K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/apple-touch-icon-114x114-precomposed.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/apple-touch-icon-72x72-precomposed.png
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3281 (3.2K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/apple-touch-icon-72x72-precomposed.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/static/apple-touch-icon-precomposed.png
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2463 (2.4K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/apple-touch-icon-precomposed.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/humans.txt
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1768 (1.7K) [text/plain]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/humans.txt.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:24--  https://www.python.org/jobs/feed/rss/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 73132 (71K) [application/rss+xml]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/jobs/feed/rss/index.html.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/downloads/feed.rss
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3384 (3.3K) [application/rss+xml]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/downloads/feed.rss.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/psf/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.python.org/psf-landing/ [following]
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/psf-landing/
+Connecting to www.python.org (www.python.org)|2a04:4e42:fe7::223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14589 (14K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/psf-landing/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14589 (14K) [text/html]
+Saving to: ‘www.python.org/psf/index.html.tmp.tmp’
+
+     0K .......... ....                                       100% 2.55M=0.005s
+
+2026-05-14 09:31:25 (2.55 MB/s) - ‘www.python.org/psf/index.html.tmp.tmp’ saved [14589/14589]
+
+Removing www.python.org/psf/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/jobs/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12019 (12K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/jobs/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12019 (12K) [text/html]
+Saving to: ‘www.python.org/jobs/index.html.tmp.tmp’
+
+     0K .......... .                                          100%  175M=0s
+
+2026-05-14 09:31:25 (175 MB/s) - ‘www.python.org/jobs/index.html.tmp.tmp’ saved [12019/12019]
+
+Removing www.python.org/jobs/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/community/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 36059 (35K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/community/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 36059 (35K) [text/html]
+Saving to: ‘www.python.org/community/index.html.tmp.tmp’
+
+     0K .......... .......... .......... .....                100% 4.82M=0.007s
+
+2026-05-14 09:31:25 (4.82 MB/s) - ‘www.python.org/community/index.html.tmp.tmp’ saved [36059/36059]
+
+Removing www.python.org/community/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/static/img/python-logo.png
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15770 (15K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/img/python-logo.png.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/community/irc/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7685 (7.5K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/community/irc/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7685 (7.5K) [text/html]
+Saving to: ‘www.python.org/community/irc/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.67G=0s
+
+2026-05-14 09:31:25 (1.67 GB/s) - ‘www.python.org/community/irc/index.html.tmp.tmp’ saved [7685/7685]
+
+Removing www.python.org/community/irc/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/about/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8970 (8.8K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/about/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8970 (8.8K) [text/html]
+Saving to: ‘www.python.org/about/index.html.tmp.tmp’
+
+     0K ........                                              100% 2.67G=0s
+
+2026-05-14 09:31:25 (2.67 GB/s) - ‘www.python.org/about/index.html.tmp.tmp’ saved [8970/8970]
+
+Removing www.python.org/about/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/about/apps/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9093 (8.9K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/about/apps/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9093 (8.9K) [text/html]
+Saving to: ‘www.python.org/about/apps/index.html.tmp.tmp’
+
+     0K ........                                              100% 1.67G=0s
+
+2026-05-14 09:31:25 (1.67 GB/s) - ‘www.python.org/about/apps/index.html.tmp.tmp’ saved [9093/9093]
+
+Removing www.python.org/about/apps/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/about/quotes/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10422 (10K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/about/quotes/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10422 (10K) [text/html]
+Saving to: ‘www.python.org/about/quotes/index.html.tmp.tmp’
+
+     0K ..........                                            100% 1.73G=0s
+
+2026-05-14 09:31:25 (1.73 GB/s) - ‘www.python.org/about/quotes/index.html.tmp.tmp’ saved [10422/10422]
+
+Removing www.python.org/about/quotes/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/about/gettingstarted/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8730 (8.5K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/about/gettingstarted/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8730 (8.5K) [text/html]
+Saving to: ‘www.python.org/about/gettingstarted/index.html.tmp.tmp’
+
+     0K ........                                              100% 1.60G=0s
+
+2026-05-14 09:31:25 (1.60 GB/s) - ‘www.python.org/about/gettingstarted/index.html.tmp.tmp’ saved [8730/8730]
+
+Removing www.python.org/about/gettingstarted/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/about/help/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8440 (8.2K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/about/help/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8440 (8.2K) [text/html]
+Saving to: ‘www.python.org/about/help/index.html.tmp.tmp’
+
+     0K ........                                              100% 1.59G=0s
+
+2026-05-14 09:31:25 (1.59 GB/s) - ‘www.python.org/about/help/index.html.tmp.tmp’ saved [8440/8440]
+
+Removing www.python.org/about/help/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/downloads/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 19725 (19K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/downloads/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 19725 (19K) [text/html]
+Saving to: ‘www.python.org/downloads/index.html.tmp.tmp’
+
+     0K .......... .........                                  100% 14.9M=0.001s
+
+2026-05-14 09:31:25 (14.9 MB/s) - ‘www.python.org/downloads/index.html.tmp.tmp’ saved [19725/19725]
+
+Removing www.python.org/downloads/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/downloads/source/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21338 (21K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/downloads/source/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21338 (21K) [text/html]
+Saving to: ‘www.python.org/downloads/source/index.html.tmp.tmp’
+
+     0K .......... ..........                                 100%  708M=0s
+
+2026-05-14 09:31:25 (708 MB/s) - ‘www.python.org/downloads/source/index.html.tmp.tmp’ saved [21338/21338]
+
+Removing www.python.org/downloads/source/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/downloads/windows/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 29888 (29K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/downloads/windows/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 29888 (29K) [text/html]
+Saving to: ‘www.python.org/downloads/windows/index.html.tmp.tmp’
+
+     0K .......... .......... .........                       100% 28.1M=0.001s
+
+2026-05-14 09:31:25 (28.1 MB/s) - ‘www.python.org/downloads/windows/index.html.tmp.tmp’ saved [29888/29888]
+
+Removing www.python.org/downloads/windows/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/downloads/macos/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 232126 (227K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/downloads/macos/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 232126 (227K) [text/html]
+Saving to: ‘www.python.org/downloads/macos/index.html.tmp.tmp’
+
+     0K .......... .......... .......... .......... .......... 22% 18.2M 0s
+    50K .......... .......... .......... .......... .......... 44% 6.39M 0s
+   100K .......... .......... .......... .......... .......... 66% 42.4M 0s
+   150K .......... .......... .......... .......... .......... 88% 6.70M 0s
+   200K .......... .......... ......                          100% 50.3M=0.02s
+
+2026-05-14 09:31:25 (11.5 MB/s) - ‘www.python.org/downloads/macos/index.html.tmp.tmp’ saved [232126/232126]
+
+Removing www.python.org/downloads/macos/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/downloads/android/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8904 (8.7K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/downloads/android/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8904 (8.7K) [text/html]
+Saving to: ‘www.python.org/downloads/android/index.html.tmp.tmp’
+
+     0K ........                                              100% 1.23G=0s
+
+2026-05-14 09:31:25 (1.23 GB/s) - ‘www.python.org/downloads/android/index.html.tmp.tmp’ saved [8904/8904]
+
+Removing www.python.org/downloads/android/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/download/other/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10729 (10K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:25--  https://www.python.org/download/other/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10729 (10K) [text/html]
+Saving to: ‘www.python.org/download/other/index.html.tmp.tmp’
+
+     0K ..........                                            100% 13.5M=0.001s
+
+2026-05-14 09:31:25 (13.5 MB/s) - ‘www.python.org/download/other/index.html.tmp.tmp’ saved [10729/10729]
+
+Removing www.python.org/download/other/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:25--  https://www.python.org/download/alternatives
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.python.org/download/alternatives/ [following]
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:26--  https://www.python.org/download/alternatives/
+Connecting to www.python.org (www.python.org)|2a04:4e42:fe7::223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8016 (7.8K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:26--  https://www.python.org/download/alternatives/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8016 (7.8K) [text/html]
+Saving to: ‘www.python.org/download/alternatives.tmp.tmp’
+
+     0K .......                                               100%  190M=0s
+
+2026-05-14 09:31:26 (190 MB/s) - ‘www.python.org/download/alternatives.tmp.tmp’ saved [8016/8016]
+
+Removing www.python.org/download/alternatives.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:26--  https://www.python.org/doc/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8311 (8.1K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:26--  https://www.python.org/doc/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8311 (8.1K) [text/html]
+Saving to: ‘www.python.org/doc/index.html.tmp.tmp’
+
+     0K ........                                              100%  141M=0s
+
+2026-05-14 09:31:26 (141 MB/s) - ‘www.python.org/doc/index.html.tmp.tmp’ saved [8311/8311]
+
+Removing www.python.org/doc/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:26--  https://www.python.org/doc/av
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.python.org/doc/av/ [following]
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:26--  https://www.python.org/doc/av/
+Connecting to www.python.org (www.python.org)|2a04:4e42:fe7::223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9252 (9.0K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:27--  https://www.python.org/doc/av/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9252 (9.0K) [text/html]
+Saving to: ‘www.python.org/doc/av.tmp.tmp’
+
+     0K .........                                             100% 13.7M=0.001s
+
+2026-05-14 09:31:27 (13.7 MB/s) - ‘www.python.org/doc/av.tmp.tmp’ saved [9252/9252]
+
+Removing www.python.org/doc/av.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:27--  https://www.python.org/doc/essays/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9484 (9.3K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:27--  https://www.python.org/doc/essays/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9484 (9.3K) [text/html]
+Saving to: ‘www.python.org/doc/essays/index.html.tmp.tmp’
+
+     0K .........                                             100% 10.8M=0.001s
+
+2026-05-14 09:31:27 (10.8 MB/s) - ‘www.python.org/doc/essays/index.html.tmp.tmp’ saved [9484/9484]
+
+Removing www.python.org/doc/essays/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:27--  https://www.python.org/community/diversity/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7744 (7.6K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:27--  https://www.python.org/community/diversity/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7744 (7.6K) [text/html]
+Saving to: ‘www.python.org/community/diversity/index.html.tmp.tmp’
+
+     0K .......                                               100%  294M=0s
+
+2026-05-14 09:31:27 (294 MB/s) - ‘www.python.org/community/diversity/index.html.tmp.tmp’ saved [7744/7744]
+
+Removing www.python.org/community/diversity/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:27--  https://www.python.org/community/lists/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43202 (42K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:28--  https://www.python.org/community/lists/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43202 (42K) [text/html]
+Saving to: ‘www.python.org/community/lists/index.html.tmp.tmp’
+
+     0K .......... .......... .......... .......... ..        100% 4.60M=0.009s
+
+2026-05-14 09:31:28 (4.60 MB/s) - ‘www.python.org/community/lists/index.html.tmp.tmp’ saved [43202/43202]
+
+Removing www.python.org/community/lists/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:28--  https://www.python.org/community/forums/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7107 (6.9K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:28--  https://www.python.org/community/forums/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7107 (6.9K) [text/html]
+Saving to: ‘www.python.org/community/forums/index.html.tmp.tmp’
+
+     0K ......                                                100% 2.04G=0s
+
+2026-05-14 09:31:28 (2.04 GB/s) - ‘www.python.org/community/forums/index.html.tmp.tmp’ saved [7107/7107]
+
+Removing www.python.org/community/forums/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:28--  https://www.python.org/psf/annual-report/2024/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7496 (7.3K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:28--  https://www.python.org/psf/annual-report/2024/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7496 (7.3K) [text/html]
+Saving to: ‘www.python.org/psf/annual-report/2024/index.html.tmp.tmp’
+
+     0K .......                                               100% 14.1M=0.001s
+
+2026-05-14 09:31:28 (14.1 MB/s) - ‘www.python.org/psf/annual-report/2024/index.html.tmp.tmp’ saved [7496/7496]
+
+Removing www.python.org/psf/annual-report/2024/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:28--  https://www.python.org/community/workshops/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7629 (7.5K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:28--  https://www.python.org/community/workshops/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7629 (7.5K) [text/html]
+Saving to: ‘www.python.org/community/workshops/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.92G=0s
+
+2026-05-14 09:31:29 (1.92 GB/s) - ‘www.python.org/community/workshops/index.html.tmp.tmp’ saved [7629/7629]
+
+Removing www.python.org/community/workshops/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:29--  https://www.python.org/community/sigs/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9243 (9.0K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:29--  https://www.python.org/community/sigs/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9243 (9.0K) [text/html]
+Saving to: ‘www.python.org/community/sigs/index.html.tmp.tmp’
+
+     0K .........                                             100% 1.42G=0s
+
+2026-05-14 09:31:29 (1.42 GB/s) - ‘www.python.org/community/sigs/index.html.tmp.tmp’ saved [9243/9243]
+
+Removing www.python.org/community/sigs/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:29--  https://www.python.org/community/logos/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9142 (8.9K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:29--  https://www.python.org/community/logos/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9142 (8.9K) [text/html]
+Saving to: ‘www.python.org/community/logos/index.html.tmp.tmp’
+
+     0K ........                                              100% 1.78G=0s
+
+2026-05-14 09:31:29 (1.78 GB/s) - ‘www.python.org/community/logos/index.html.tmp.tmp’ saved [9142/9142]
+
+Removing www.python.org/community/logos/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:29--  https://www.python.org/psf/conduct/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://policies.python.org/python.org/code-of-conduct/ [following]
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:29--  https://policies.python.org/python.org/code-of-conduct/
+Resolving policies.python.org (policies.python.org)... 2606:4700:9ae2:8f51:dd:db3:6810:fd78, 104.16.254.120, 104.16.253.120
+Connecting to policies.python.org (policies.python.org)|2606:4700:9ae2:8f51:dd:db3:6810:fd78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:30--  https://policies.python.org/python.org/code-of-conduct/
+Reusing existing connection to [policies.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.python.org/psf/conduct/index.html.tmp.tmp’
+
+     0K .......... .......... .......... .......... ....       43.0M=0.001s
+
+2026-05-14 09:31:30 (43.0 MB/s) - ‘www.python.org/psf/conduct/index.html.tmp.tmp’ saved [45585]
+
+Removing www.python.org/psf/conduct/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:30--  https://www.python.org/community/awards
+Connecting to www.python.org (www.python.org)|2a04:4e42:fe7::223|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.python.org/community/awards/ [following]
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:30--  https://www.python.org/community/awards/
+Connecting to www.python.org (www.python.org)|2a04:4e42:fe7::223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7916 (7.7K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:30--  https://www.python.org/community/awards/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7916 (7.7K) [text/html]
+Saving to: ‘www.python.org/community/awards.tmp.tmp’
+
+     0K .......                                               100%  185M=0s
+
+2026-05-14 09:31:30 (185 MB/s) - ‘www.python.org/community/awards.tmp.tmp’ saved [7916/7916]
+
+Removing www.python.org/community/awards.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:30--  https://www.python.org/psf/get-involved/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35364 (35K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:31--  https://www.python.org/psf/get-involved/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35364 (35K) [text/html]
+Saving to: ‘www.python.org/psf/get-involved/index.html.tmp.tmp’
+
+     0K .......... .......... .......... ....                 100% 3.02M=0.01s
+
+2026-05-14 09:31:31 (3.02 MB/s) - ‘www.python.org/psf/get-involved/index.html.tmp.tmp’ saved [35364/35364]
+
+Removing www.python.org/psf/get-involved/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:31--  https://www.python.org/psf/community-stories/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10722 (10K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:31--  https://www.python.org/psf/community-stories/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10722 (10K) [text/html]
+Saving to: ‘www.python.org/psf/community-stories/index.html.tmp.tmp’
+
+     0K ..........                                            100%  320M=0s
+
+2026-05-14 09:31:31 (320 MB/s) - ‘www.python.org/psf/community-stories/index.html.tmp.tmp’ saved [10722/10722]
+
+Removing www.python.org/psf/community-stories/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:31--  https://www.python.org/success-stories/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9783 (9.6K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:31--  https://www.python.org/success-stories/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9783 (9.6K) [text/html]
+Saving to: ‘www.python.org/success-stories/index.html.tmp.tmp’
+
+     0K .........                                             100% 1.97G=0s
+
+2026-05-14 09:31:31 (1.97 GB/s) - ‘www.python.org/success-stories/index.html.tmp.tmp’ saved [9783/9783]
+
+Removing www.python.org/success-stories/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:31--  https://www.python.org/success-stories/category/arts/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6987 (6.8K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:32--  https://www.python.org/success-stories/category/arts/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6987 (6.8K) [text/html]
+Saving to: ‘www.python.org/success-stories/category/arts/index.html.tmp.tmp’
+
+     0K ......                                                100% 1.88G=0s
+
+2026-05-14 09:31:32 (1.88 GB/s) - ‘www.python.org/success-stories/category/arts/index.html.tmp.tmp’ saved [6987/6987]
+
+Removing www.python.org/success-stories/category/arts/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:32--  https://www.python.org/success-stories/category/business/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7823 (7.6K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:32--  https://www.python.org/success-stories/category/business/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7823 (7.6K) [text/html]
+Saving to: ‘www.python.org/success-stories/category/business/index.html.tmp.tmp’
+
+     0K .......                                               100%  426M=0s
+
+2026-05-14 09:31:32 (426 MB/s) - ‘www.python.org/success-stories/category/business/index.html.tmp.tmp’ saved [7823/7823]
+
+Removing www.python.org/success-stories/category/business/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:32--  https://www.python.org/success-stories/category/education/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7185 (7.0K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:32--  https://www.python.org/success-stories/category/education/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7185 (7.0K) [text/html]
+Saving to: ‘www.python.org/success-stories/category/education/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.29G=0s
+
+2026-05-14 09:31:32 (1.29 GB/s) - ‘www.python.org/success-stories/category/education/index.html.tmp.tmp’ saved [7185/7185]
+
+Removing www.python.org/success-stories/category/education/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:32--  https://www.python.org/success-stories/category/engineering/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7118 (7.0K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:32--  https://www.python.org/success-stories/category/engineering/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7118 (7.0K) [text/html]
+Saving to: ‘www.python.org/success-stories/category/engineering/index.html.tmp.tmp’
+
+     0K ......                                                100% 1.87G=0s
+
+2026-05-14 09:31:32 (1.87 GB/s) - ‘www.python.org/success-stories/category/engineering/index.html.tmp.tmp’ saved [7118/7118]
+
+Removing www.python.org/success-stories/category/engineering/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:32--  https://www.python.org/success-stories/category/government/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34680 (34K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:33--  https://www.python.org/success-stories/category/government/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34680 (34K) [text/html]
+Saving to: ‘www.python.org/success-stories/category/government/index.html.tmp.tmp’
+
+     0K .......... .......... .......... ...                  100% 32.5M=0.001s
+
+2026-05-14 09:31:33 (32.5 MB/s) - ‘www.python.org/success-stories/category/government/index.html.tmp.tmp’ saved [34680/34680]
+
+Removing www.python.org/success-stories/category/government/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:33--  https://www.python.org/success-stories/category/scientific/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7205 (7.0K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:33--  https://www.python.org/success-stories/category/scientific/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7205 (7.0K) [text/html]
+Saving to: ‘www.python.org/success-stories/category/scientific/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.77G=0s
+
+2026-05-14 09:31:33 (1.77 GB/s) - ‘www.python.org/success-stories/category/scientific/index.html.tmp.tmp’ saved [7205/7205]
+
+Removing www.python.org/success-stories/category/scientific/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:33--  https://www.python.org/success-stories/category/software-development/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8174 (8.0K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:33--  https://www.python.org/success-stories/category/software-development/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8174 (8.0K) [text/html]
+Saving to: ‘www.python.org/success-stories/category/software-development/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.35G=0s
+
+2026-05-14 09:31:33 (1.35 GB/s) - ‘www.python.org/success-stories/category/software-development/index.html.tmp.tmp’ saved [8174/8174]
+
+Removing www.python.org/success-stories/category/software-development/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:33--  https://www.python.org/blogs/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7763 (7.6K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:33--  https://www.python.org/blogs/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7763 (7.6K) [text/html]
+Saving to: ‘www.python.org/blogs/index.html.tmp.tmp’
+
+     0K .......                                               100% 12.5M=0.001s
+
+2026-05-14 09:31:33 (12.5 MB/s) - ‘www.python.org/blogs/index.html.tmp.tmp’ saved [7763/7763]
+
+Removing www.python.org/blogs/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:33--  https://www.python.org/psf/newsletter/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9511 (9.3K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:34--  https://www.python.org/psf/newsletter/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9511 (9.3K) [text/html]
+Saving to: ‘www.python.org/psf/newsletter/index.html.tmp.tmp’
+
+     0K .........                                             100% 1.91G=0s
+
+2026-05-14 09:31:34 (1.91 GB/s) - ‘www.python.org/psf/newsletter/index.html.tmp.tmp’ saved [9511/9511]
+
+Removing www.python.org/psf/newsletter/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:34--  https://www.python.org/events/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10471 (10K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:34--  https://www.python.org/events/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10471 (10K) [text/html]
+Saving to: ‘www.python.org/events/index.html.tmp.tmp’
+
+     0K ..........                                            100% 2.11G=0s
+
+2026-05-14 09:31:34 (2.11 GB/s) - ‘www.python.org/events/index.html.tmp.tmp’ saved [10471/10471]
+
+Removing www.python.org/events/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:34--  https://www.python.org/events/python-events/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7880 (7.7K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:34--  https://www.python.org/events/python-events/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7880 (7.7K) [text/html]
+Saving to: ‘www.python.org/events/python-events/index.html.tmp.tmp’
+
+     0K .......                                               100% 2.20G=0s
+
+2026-05-14 09:31:34 (2.20 GB/s) - ‘www.python.org/events/python-events/index.html.tmp.tmp’ saved [7880/7880]
+
+Removing www.python.org/events/python-events/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:34--  https://www.python.org/events/python-user-group/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39816 (39K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:37--  https://www.python.org/events/python-user-group/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39816 (39K) [text/html]
+Saving to: ‘www.python.org/events/python-user-group/index.html.tmp.tmp’
+
+     0K .......... .......... .......... ........             100% 76.1M=0s
+
+2026-05-14 09:31:37 (76.1 MB/s) - ‘www.python.org/events/python-user-group/index.html.tmp.tmp’ saved [39816/39816]
+
+Removing www.python.org/events/python-user-group/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:37--  https://www.python.org/events/python-events/past/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38184 (37K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:37--  https://www.python.org/events/python-events/past/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38184 (37K) [text/html]
+Saving to: ‘www.python.org/events/python-events/past/index.html.tmp.tmp’
+
+     0K .......... .......... .......... .......              100% 33.2M=0.001s
+
+2026-05-14 09:31:38 (33.2 MB/s) - ‘www.python.org/events/python-events/past/index.html.tmp.tmp’ saved [38184/38184]
+
+Removing www.python.org/events/python-events/past/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:38--  https://www.python.org/events/python-user-group/past/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7912 (7.7K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:38--  https://www.python.org/events/python-user-group/past/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7912 (7.7K) [text/html]
+Saving to: ‘www.python.org/events/python-user-group/past/index.html.tmp.tmp’
+
+     0K .......                                               100% 13.7M=0.001s
+
+2026-05-14 09:31:38 (13.7 MB/s) - ‘www.python.org/events/python-user-group/past/index.html.tmp.tmp’ saved [7912/7912]
+
+Removing www.python.org/events/python-user-group/past/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:38--  https://www.python.org/shell/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9994 (9.8K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:38--  https://www.python.org/shell/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9994 (9.8K) [text/html]
+Saving to: ‘www.python.org/shell/index.html.tmp.tmp’
+
+     0K .........                                             100% 1.33G=0s
+
+2026-05-14 09:31:38 (1.33 GB/s) - ‘www.python.org/shell/index.html.tmp.tmp’ saved [9994/9994]
+
+Removing www.python.org/shell/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:38--  https://www.python.org/downloads/release/python-3145/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11833 (12K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:38--  https://www.python.org/downloads/release/python-3145/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11833 (12K) [text/html]
+Saving to: ‘www.python.org/downloads/release/python-3145/index.html.tmp.tmp’
+
+     0K .......... .                                          100% 1.76G=0s
+
+2026-05-14 09:31:38 (1.76 GB/s) - ‘www.python.org/downloads/release/python-3145/index.html.tmp.tmp’ saved [11833/11833]
+
+Removing www.python.org/downloads/release/python-3145/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:38--  https://www.python.org/events/calendars/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6699 (6.5K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:38--  https://www.python.org/events/calendars/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6699 (6.5K) [text/html]
+Saving to: ‘www.python.org/events/calendars/index.html.tmp.tmp’
+
+     0K ......                                                100% 6.72M=0.001s
+
+2026-05-14 09:31:38 (6.72 MB/s) - ‘www.python.org/events/calendars/index.html.tmp.tmp’ saved [6699/6699]
+
+Removing www.python.org/events/calendars/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:38--  https://www.python.org/events/python-events/2036/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7860 (7.7K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:39--  https://www.python.org/events/python-events/2036/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7860 (7.7K) [text/html]
+Saving to: ‘www.python.org/events/python-events/2036/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.29G=0s
+
+2026-05-14 09:31:39 (1.29 GB/s) - ‘www.python.org/events/python-events/2036/index.html.tmp.tmp’ saved [7860/7860]
+
+Removing www.python.org/events/python-events/2036/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:39--  https://www.python.org/events/python-user-group/2174/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8189 (8.0K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:39--  https://www.python.org/events/python-user-group/2174/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8189 (8.0K) [text/html]
+Saving to: ‘www.python.org/events/python-user-group/2174/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.89G=0s
+
+2026-05-14 09:31:39 (1.89 GB/s) - ‘www.python.org/events/python-user-group/2174/index.html.tmp.tmp’ saved [8189/8189]
+
+Removing www.python.org/events/python-user-group/2174/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:39--  https://www.python.org/events/python-events/2175/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7872 (7.7K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:39--  https://www.python.org/events/python-events/2175/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7872 (7.7K) [text/html]
+Saving to: ‘www.python.org/events/python-events/2175/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.66G=0s
+
+2026-05-14 09:31:39 (1.66 GB/s) - ‘www.python.org/events/python-events/2175/index.html.tmp.tmp’ saved [7872/7872]
+
+Removing www.python.org/events/python-events/2175/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:39--  https://www.python.org/events/python-user-group/2104/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8134 (7.9K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:39--  https://www.python.org/events/python-user-group/2104/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8134 (7.9K) [text/html]
+Saving to: ‘www.python.org/events/python-user-group/2104/index.html.tmp.tmp’
+
+     0K .......                                               100% 2.16G=0s
+
+2026-05-14 09:31:39 (2.16 GB/s) - ‘www.python.org/events/python-user-group/2104/index.html.tmp.tmp’ saved [8134/8134]
+
+Removing www.python.org/events/python-user-group/2104/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:39--  https://www.python.org/events/python-events/2147/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7967 (7.8K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:40--  https://www.python.org/events/python-events/2147/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7967 (7.8K) [text/html]
+Saving to: ‘www.python.org/events/python-events/2147/index.html.tmp.tmp’
+
+     0K .......                                               100% 1.71G=0s
+
+2026-05-14 09:31:40 (1.71 GB/s) - ‘www.python.org/events/python-events/2147/index.html.tmp.tmp’ saved [7967/7967]
+
+Removing www.python.org/events/python-events/2147/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:40--  https://www.python.org/success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8916 (8.7K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:40--  https://www.python.org/success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8916 (8.7K) [text/html]
+Saving to: ‘www.python.org/success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/index.html.tmp.tmp’
+
+     0K ........                                              100% 1.85G=0s
+
+2026-05-14 09:31:40 (1.85 GB/s) - ‘www.python.org/success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/index.html.tmp.tmp’ saved [8916/8916]
+
+Removing www.python.org/success-stories/zama-concrete-ml-simplifying-homomorphic-encryption-for-python-machine-learning/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:40--  https://www.python.org/about/apps
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.python.org/about/apps/ [following]
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:40--  https://www.python.org/about/apps/
+Connecting to www.python.org (www.python.org)|2a04:4e42:fe7::223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9093 (8.9K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:40--  https://www.python.org/about/apps/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9093 (8.9K) [text/html]
+Saving to: ‘www.python.org/about/apps.tmp.tmp’
+
+     0K ........                                              100%  169M=0s
+
+2026-05-14 09:31:40 (169 MB/s) - ‘www.python.org/about/apps.tmp.tmp’ saved [9093/9093]
+
+Removing www.python.org/about/apps.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:40--  https://www.python.org/psf/membership/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8726 (8.5K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:40--  https://www.python.org/psf/membership/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8726 (8.5K) [text/html]
+Saving to: ‘www.python.org/psf/membership/index.html.tmp.tmp’
+
+     0K ........                                              100%  296M=0s
+
+2026-05-14 09:31:40 (296 MB/s) - ‘www.python.org/psf/membership/index.html.tmp.tmp’ saved [8726/8726]
+
+Removing www.python.org/psf/membership/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:40--  https://www.python.org/psf/donations/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10890 (11K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:40--  https://www.python.org/psf/donations/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10890 (11K) [text/html]
+Saving to: ‘www.python.org/psf/donations/index.html.tmp.tmp’
+
+     0K ..........                                            100% 18.3M=0.001s
+
+2026-05-14 09:31:40 (18.3 MB/s) - ‘www.python.org/psf/donations/index.html.tmp.tmp’ saved [10890/10890]
+
+Removing www.python.org/psf/donations/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:40--  https://www.python.org/dev/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7051 (6.9K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:41--  https://www.python.org/dev/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7051 (6.9K) [text/html]
+Saving to: ‘www.python.org/dev/index.html.tmp.tmp’
+
+     0K ......                                                100% 3.97M=0.002s
+
+2026-05-14 09:31:41 (3.97 MB/s) - ‘www.python.org/dev/index.html.tmp.tmp’ saved [7051/7051]
+
+Removing www.python.org/dev/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:41--  https://www.python.org/dev/core-mentorship/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8644 (8.4K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:41--  https://www.python.org/dev/core-mentorship/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8644 (8.4K) [text/html]
+Saving to: ‘www.python.org/dev/core-mentorship/index.html.tmp.tmp’
+
+     0K ........                                              100% 6.54M=0.001s
+
+2026-05-14 09:31:41 (6.54 MB/s) - ‘www.python.org/dev/core-mentorship/index.html.tmp.tmp’ saved [8644/8644]
+
+Removing www.python.org/dev/core-mentorship/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:41--  https://www.python.org/dev/security/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11381 (11K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:41--  https://www.python.org/dev/security/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11381 (11K) [text/html]
+Saving to: ‘www.python.org/dev/security/index.html.tmp.tmp’
+
+     0K .......... .                                          100% 28.0M=0s
+
+2026-05-14 09:31:41 (28.0 MB/s) - ‘www.python.org/dev/security/index.html.tmp.tmp’ saved [11381/11381]
+
+Removing www.python.org/dev/security/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:41--  https://www.python.org/psf-landing/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14589 (14K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:41--  https://www.python.org/psf-landing/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14589 (14K) [text/html]
+Saving to: ‘www.python.org/psf-landing/index.html.tmp.tmp’
+
+     0K .......... ....                                       100% 6.81M=0.002s
+
+2026-05-14 09:31:41 (6.81 MB/s) - ‘www.python.org/psf-landing/index.html.tmp.tmp’ saved [14589/14589]
+
+Removing www.python.org/psf-landing/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:41--  https://www.python.org/about/legal/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34146 (33K) [text/html]
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2026-05-14 09:31:41--  https://www.python.org/about/legal/
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34146 (33K) [text/html]
+Saving to: ‘www.python.org/about/legal/index.html.tmp.tmp’
+
+     0K .......... .......... .......... ...                  100% 5.75M=0.006s
+
+2026-05-14 09:31:41 (5.75 MB/s) - ‘www.python.org/about/legal/index.html.tmp.tmp’ saved [34146/34146]
+
+Removing www.python.org/about/legal/index.html.tmp.tmp.
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:41--  https://www.python.org/static/js/libs/jquery-1.8.2.min.js
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 93434 (91K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/js/libs/jquery-1.8.2.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:41--  https://www.python.org/static/js/libs/jquery-ui-1.12.1.min.js
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 253668 (248K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/js/libs/jquery-ui-1.12.1.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:41--  https://www.python.org/static/js/libs/masonry.pkgd.min.js
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 26179 (26K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/js/libs/masonry.pkgd.min.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:41--  https://www.python.org/static/js/libs/html-includes.js
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 178 [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/js/libs/html-includes.js.tmp.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2026-05-14 09:31:42--  https://www.python.org/static/js/main-min.e1f3949ae225.js
+Reusing existing connection to [www.python.org]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33431 (33K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.python.org/static/js/main-min.e1f3949ae225.js.tmp.
+unlink: No such file or directory
+
+Found no broken links.
+
+FINISHED --2026-05-14 09:31:42--
+Total wall clock time: 18s
+Downloaded: 67 files, 1.5M in 0.1s (12.7 MB/s)

@@ -7,8 +7,5 @@ venv/
 *.db
 *.pcap
 
-outputs/
-data/
-
 .idea/
 .vscode/
