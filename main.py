@@ -19,8 +19,6 @@ from sqlalchemy.exc import IntegrityError
 import os
 import scrapy
 from scrapy.crawler import CrawlerProcess
-
-# Create folders automatically
 os.makedirs("data", exist_ok=True)
 os.makedirs("outputs", exist_ok=True)
 os.makedirs("screenshots", exist_ok=True)
@@ -30,8 +28,6 @@ print("Distributed Web Crawler")
 print("-" * 50)
 
 Base = declarative_base()
-
-# Database inside data folder
 engine = create_engine('sqlite:///data/crawled.db', echo=False)
 
 Session = sessionmaker(bind=engine)
