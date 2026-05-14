@@ -1,0 +1,10 @@
+redis
+pandas
+matplotlib
+networkx
+scapy
+httpx
+beautifulsoup4
+scrapy
+sqlalchemy
+bloom-filter
